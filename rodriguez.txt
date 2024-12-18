@@ -1,0 +1,12 @@
+untracked unmodified modified y staged
+
+locales, centralizados y distribuidos
+
+------------ En que estado de archivo y seccion de git esta un archivo que inicialmente estaba untracked, lo abro y lo edito?
+
+SECCION:WORKING DIRECTORY
+ESTADO:UNTRACKED
+------------ En que estado de archivo y seccion de git esta un archivo que inicialmente estaba modified despues hago un commit?
+
+SECCION:LOCAL REPO
+ESTADO:MODIFIED
