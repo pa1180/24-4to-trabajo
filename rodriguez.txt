@@ -1,1 +1,3 @@
 untracked unmodified modified y staged
+
+locales, centralizados y distribuidos
